@@ -1,4 +1,9 @@
-## Hi there 👋
+## Welcome, welcome !!
+
+My name is KHeart, and I am an artist ! 
+I'm a student animator learning animation.
+She/her
+
 
 <!--
 **kheart67/kheart67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
